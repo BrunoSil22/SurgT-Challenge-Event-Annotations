@@ -94,7 +94,7 @@ The `scripts/analise_events.py` script:
 ---
 ## License
 
-The annotations and scripts are released under a permissive license (see `LICENSE`).
+The annotations and scripts are released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license (see  [LICENSE](LICENSE)).
 This license applies **only to the annotation metadata**, not to SurgT video data.
 
 ---
