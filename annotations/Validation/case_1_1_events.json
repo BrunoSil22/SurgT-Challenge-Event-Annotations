@@ -1,0 +1,13 @@
+{
+  "video_id": "case_1_1",
+  "dataset": "SurgT",
+  "anchors": [
+    0,
+    50,
+    100,
+    150,
+    200,
+    250
+  ],
+  "events": []
+}

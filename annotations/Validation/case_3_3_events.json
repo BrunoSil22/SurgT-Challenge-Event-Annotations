@@ -1,0 +1,43 @@
+{
+  "video_id": "case_3_3",
+  "dataset": "SurgT",
+  "anchors": [
+    100,
+    150,
+    365,
+    400,
+    450,
+    500,
+    550,
+    600,
+    650,
+    700
+  ],
+  "events": [
+    {
+      "type": "i_o",
+      "start_frame": 0,
+      "end_frame": 30
+    },
+    {
+      "type": "s",
+      "start_frame": 108,
+      "end_frame": 113
+    },
+    {
+      "type": "i_o",
+      "start_frame": 167,
+      "end_frame": 175
+    },
+    {
+      "type": "i_o",
+      "start_frame": 181,
+      "end_frame": 359
+    },
+    {
+      "type": "i_o",
+      "start_frame": 716,
+      "end_frame": 881
+    }
+  ]
+}

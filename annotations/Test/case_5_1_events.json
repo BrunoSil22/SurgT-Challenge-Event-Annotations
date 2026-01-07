@@ -1,0 +1,32 @@
+{
+  "video_id": "case_5_1",
+  "dataset": "SurgT",
+  "anchors": [
+    0,
+    100,
+    151,
+    200,
+    271,
+    300,
+    350,
+    400,
+    450,
+    500,
+    550,
+    600,
+    650,
+    700
+  ],
+  "events": [
+    {
+      "type": "o_f",
+      "start_frame": 20,
+      "end_frame": 58
+    },
+    {
+      "type": "o_f",
+      "start_frame": 252,
+      "end_frame": 267
+    }
+  ]
+}

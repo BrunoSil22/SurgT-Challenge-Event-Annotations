@@ -1,0 +1,60 @@
+{
+  "video_id": "case_3_1",
+  "dataset": "SurgT",
+  "anchors": [
+    0,
+    50,
+    150,
+    200,
+    250,
+    462,
+    600,
+    650,
+    700,
+    750,
+    800,
+    859
+  ],
+  "events": [
+    {
+      "type": "o_o",
+      "start_frame": 75,
+      "end_frame": 132
+    },
+    {
+      "type": "i_o",
+      "start_frame": 100,
+      "end_frame": 117
+    },
+    {
+      "type": "o_o",
+      "start_frame": 282,
+      "end_frame": 462
+    },
+    {
+      "type": "o_o",
+      "start_frame": 482,
+      "end_frame": 579
+    },
+    {
+      "type": "i_o",
+      "start_frame": 550,
+      "end_frame": 579
+    },
+    {
+      "type": "i_o",
+      "start_frame": 587,
+      "end_frame": 595
+    },
+    {
+      "type": "s",
+      "start_frame": 709,
+      "end_frame": 749
+    },
+    {
+      "type": "f",
+      "start_frame": 851,
+      "end_frame": 859
+    }
+  ]
+}

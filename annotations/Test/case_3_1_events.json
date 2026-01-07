@@ -1,0 +1,91 @@
+{
+  "video_id": "case_3_1",
+  "dataset": "SurgT",
+  "anchors": [
+    9,
+    100,
+    174,
+    253,
+    350,
+    417,
+    500,
+    616,
+    651,
+    750,
+    800,
+    850,
+    900
+  ],
+  "events": [
+    {
+      "type": "i_o",
+      "start_frame": 575,
+      "end_frame": 580
+    },
+    {
+      "type": "i_o",
+      "start_frame": 585,
+      "end_frame": 607
+    },
+    {
+      "type": "f",
+      "start_frame": 608,
+      "end_frame": 614
+    },
+    {
+      "type": "i_o",
+      "start_frame": 623,
+      "end_frame": 627
+    },
+    {
+      "type": "i_o",
+      "start_frame": 660,
+      "end_frame": 704
+    },
+    {
+      "type": "i_o",
+      "start_frame": 715,
+      "end_frame": 719
+    },
+    {
+      "type": "d",
+      "start_frame": 719,
+      "end_frame": 748
+    },
+    {
+      "type": "o_o",
+      "start_frame": 723,
+      "end_frame": 729
+    },
+    {
+      "type": "i_o",
+      "start_frame": 764,
+      "end_frame": 768
+    },
+    {
+      "type": "i_o",
+      "start_frame": 775,
+      "end_frame": 783
+    },
+    {
+      "type": "i_o",
+      "start_frame": 787,
+      "end_frame": 792
+    },
+    {
+      "type": "f",
+      "start_frame": 801,
+      "end_frame": 805
+    },
+    {
+      "type": "i_o",
+      "start_frame": 825,
+      "end_frame": 829
+    },
+    {
+      "type": "i_o",
+      "start_frame": 890,
+      "end_frame": 893
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "video_id": "case_2_4",
+  "dataset": "SurgT",
+  "anchors": [
+    14,
+    50,
+    100,
+    150
+  ],
+  "events": [
+    {
+      "type": "o_f",
+      "start_frame": 179,
+      "end_frame": 308
+    }
+  ]
+}
