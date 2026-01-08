@@ -85,7 +85,7 @@ Multiple events may overlap in time (e.g., instrument occlusion occurring while 
 ---
 ## Statistics Script
 
-The `scripts/analise_events.py` script:
+The `analise_events.py` script:
 - Parses all annotation files
 - Computes per-event frame counts and distributions
 - Generates the statistics reported in the paper
