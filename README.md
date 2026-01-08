@@ -50,7 +50,7 @@ Typical use cases include:
 - One JSON file per video
 - File naming convention: `<video_id>_events.json`
 
-For detailed definitions of all event types and annotation guidelines, see [EVENTS.md](EVENTS.md).
+For detailed definitions of all event types and annotation guidelines, see [EVENTS.md](docs/EVENTS.md).
 
 ### JSON schema (simplified)
 

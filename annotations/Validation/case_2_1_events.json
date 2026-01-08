@@ -17,11 +17,6 @@
   ],
   "events": [
     {
-      "type": "o",
-      "start_frame": 64,
-      "end_frame": 67
-    },
-    {
       "type": "f",
       "start_frame": 273,
       "end_frame": 287

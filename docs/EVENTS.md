@@ -30,7 +30,7 @@ These annotations were created to enable **event-aware evaluation** of laparosco
 | `f`   | Fast Movement         | Rapid motion of the camera or target causing large inter-frame displacement or motion blur |                                                   |
 | `d`   | Deformation           | Significant non-rigid deformation of the target point that alters its appearance          |                                                   |
 | `s`   | Smoke                 | Presence of smoke that reduces visibility of the target point                              |                                                   |
-| `o`   | Other                 | Challenging conditions not covered by the predefined categories (example: specular highlights) | Use sparingly; only when no other category applies |
+| `o`   | Other                 | Challenging conditions not covered by the predefined categories (example: specular highlights, low illumination) | Use sparingly; only when no other category applies |
 
 ---
 
@@ -45,3 +45,5 @@ These annotations were created to enable **event-aware evaluation** of laparosco
 These annotations are intended for:
 - Robustness evaluation of tracking methods
 - Ablation studies under specific challenges (e.g., occlusion, out-of-frame)
+
+For reproducibility and transparency, decisions for ambiguous cases are documented in `docs/annotation_decision_log.md`.

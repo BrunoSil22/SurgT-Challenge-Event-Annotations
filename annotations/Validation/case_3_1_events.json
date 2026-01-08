@@ -32,19 +32,34 @@
       "end_frame": 462
     },
     {
-      "type": "o_o",
+      "type": "i_o",
+      "start_frame": 450,
+      "end_frame": 458
+    },
+    {
+      "type": "s",
+      "start_frame": 458,
+      "end_frame": 461
+    },
+    {
+      "type": "f",
       "start_frame": 482,
-      "end_frame": 579
+      "end_frame": 493
+    },
+    {
+      "type": "o",
+      "start_frame": 486,
+      "end_frame": 557
     },
     {
       "type": "i_o",
       "start_frame": 550,
-      "end_frame": 579
+      "end_frame": 578
     },
     {
       "type": "i_o",
       "start_frame": 587,
-      "end_frame": 595
+      "end_frame": 594
     },
     {
       "type": "s",
@@ -54,7 +69,7 @@
     {
       "type": "f",
       "start_frame": 851,
-      "end_frame": 859
+      "end_frame": 858
     }
   ]
 }
