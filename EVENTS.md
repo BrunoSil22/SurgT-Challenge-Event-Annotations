@@ -1,6 +1,6 @@
 # SurgT Event Types and Annotation Guidelines
 
-This document defines the event types used in the **SurgT-Challenge-Event-Annotations** repository and provides annotation guidelines.
+This document defines the event types used in the **SurgT-Challenge-Event-Annotations** repository and provides annotation guidelines for tracking target points (defined as the center of each bounding box).
 
 These annotations were created to enable **event-aware evaluation** of laparoscopic tracking methods and support the analysis of the **IMI-Tracker** method presented in:
 
@@ -9,7 +9,7 @@ These annotations were created to enable **event-aware evaluation** of laparosco
 ---
 
 ## General Annotation Principles
-
+- Events are labeled with respect to the target point (defined as the center of each bounding box).
 - Events are labeled by their **start and end frames**.
 - If an event occurs in any view (left or right), the frame is labeled as containing that event.
 - Only **challenging frames** are annotated; absence of an event does not imply ideal conditions.
@@ -22,14 +22,14 @@ These annotations were created to enable **event-aware evaluation** of laparosco
 
 | Code  | Name                  | Definition                                                                                 | Notes / Edge Cases                                 |
 |-------|----------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------|
-| `i_o` | Instrument Occlusion  | Partial or full occlusion of the target region by surgical instruments                     | Excludes occlusion caused primarily by tissue or needle |
-| `g_o` | Gauze Occlusion       | Occlusion of the target region caused by a gauze                                           |                                                   |
-| `n_o` | Needle Occlusion      | Occlusion of the target region by a surgical needle or suture material                     |                                                   |
+| `i_o` | Instrument Occlusion  | Partial or full occlusion of the target point by surgical instruments                     | Excludes occlusion caused primarily by tissue or needle |
+| `g_o` | Gauze Occlusion       | Occlusion of the target point caused by a gauze                                           |                                                   |
+| `n_o` | Needle Occlusion      | Occlusion of the target point by a surgical needle or suture material                     |                                                   |
 | `o_o` | Organ Occlusion       | Occlusion caused by anatomical structures (e.g., organs or tissue)                        |                                                   |
-| `o_f` | Out of Frame          | The target region partially or fully leaves the image frame                                |                                                   |
+| `o_f` | Out of Frame          | The target point partially or fully leaves the image frame                                |                                                   |
 | `f`   | Fast Movement         | Rapid motion of the camera or target causing large inter-frame displacement or motion blur |                                                   |
-| `d`   | Deformation           | Significant non-rigid deformation of the target region that alters its appearance          |                                                   |
-| `s`   | Smoke                 | Presence of smoke that reduces visibility of the target region                              |                                                   |
+| `d`   | Deformation           | Significant non-rigid deformation of the target point that alters its appearance          |                                                   |
+| `s`   | Smoke                 | Presence of smoke that reduces visibility of the target point                              |                                                   |
 | `o`   | Other                 | Challenging conditions not covered by the predefined categories (example: specular highlights) | Use sparingly; only when no other category applies |
 
 ---
