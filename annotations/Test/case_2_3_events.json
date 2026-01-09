@@ -18,6 +18,11 @@
     900
   ],
   "events": [
+      {
+      "type": "o_f",
+      "start_frame": 0,
+      "end_frame": 88
+    },
     {
       "type": "o_f",
       "start_frame": 183,

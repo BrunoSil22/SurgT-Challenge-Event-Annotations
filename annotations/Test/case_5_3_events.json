@@ -35,7 +35,7 @@
     {
       "type": "i_o",
       "start_frame": 271,
-      "end_frame": 287
+      "end_frame": 286
     },
     {
       "type": "o_f",
@@ -55,7 +55,7 @@
     {
       "type": "i_o",
       "start_frame": 657,
-      "end_frame": 674
+      "end_frame": 673
     },
     {
       "type": "d",

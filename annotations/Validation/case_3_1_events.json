@@ -19,17 +19,17 @@
     {
       "type": "o_o",
       "start_frame": 75,
-      "end_frame": 132
+      "end_frame": 131
     },
     {
       "type": "i_o",
       "start_frame": 100,
-      "end_frame": 117
+      "end_frame": 116
     },
     {
       "type": "o_o",
       "start_frame": 282,
-      "end_frame": 462
+      "end_frame": 453
     },
     {
       "type": "i_o",
@@ -39,21 +39,21 @@
     {
       "type": "s",
       "start_frame": 458,
-      "end_frame": 461
+      "end_frame": 463
     },
     {
       "type": "f",
-      "start_frame": 482,
-      "end_frame": 493
+      "start_frame": 480,
+      "end_frame": 494
     },
     {
       "type": "o",
-      "start_frame": 486,
+      "start_frame": 485,
       "end_frame": 557
     },
     {
       "type": "i_o",
-      "start_frame": 550,
+      "start_frame": 538,
       "end_frame": 578
     },
     {

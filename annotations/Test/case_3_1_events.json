@@ -25,7 +25,7 @@
     {
       "type": "i_o",
       "start_frame": 585,
-      "end_frame": 607
+      "end_frame": 606
     },
     {
       "type": "f",
@@ -35,12 +35,12 @@
     {
       "type": "i_o",
       "start_frame": 623,
-      "end_frame": 627
+      "end_frame": 626
     },
     {
       "type": "i_o",
       "start_frame": 660,
-      "end_frame": 704
+      "end_frame": 703
     },
     {
       "type": "i_o",
@@ -60,12 +60,12 @@
     {
       "type": "i_o",
       "start_frame": 764,
-      "end_frame": 768
+      "end_frame": 767
     },
     {
       "type": "i_o",
       "start_frame": 775,
-      "end_frame": 783
+      "end_frame": 782
     },
     {
       "type": "i_o",
@@ -85,7 +85,7 @@
     {
       "type": "i_o",
       "start_frame": 890,
-      "end_frame": 893
+      "end_frame": 892
     }
   ]
 }

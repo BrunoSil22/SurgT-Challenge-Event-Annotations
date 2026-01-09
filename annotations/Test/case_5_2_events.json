@@ -13,6 +13,11 @@
     600
   ],
   "events": [
+      {
+      "type": "o_f",
+      "start_frame": 0,
+      "end_frame": 40
+    },
     {
       "type": "f",
       "start_frame": 72,

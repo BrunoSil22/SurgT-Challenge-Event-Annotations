@@ -67,12 +67,12 @@
     {
       "type": "i_o",
       "start_frame": 576,
-      "end_frame": 578
+      "end_frame": 577
     },
     {
       "type": "i_o",
       "start_frame": 634,
-      "end_frame": 638
+      "end_frame": 637
     }
   ]
 }

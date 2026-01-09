@@ -35,7 +35,7 @@
     {
       "type": "i_o",
       "start_frame": 240,
-      "end_frame": 250
+      "end_frame": 249
     },
     {
       "type": "g_o",
@@ -45,22 +45,22 @@
     {
       "type": "i_o",
       "start_frame": 278,
-      "end_frame": 289
+      "end_frame": 288
     },
     {
       "type": "i_o",
       "start_frame": 296,
-      "end_frame": 306
+      "end_frame": 305
     },
     {
       "type": "i_o",
       "start_frame": 322,
-      "end_frame": 331
+      "end_frame": 330
     },
     {
       "type": "i_o",
       "start_frame": 340,
-      "end_frame": 384
+      "end_frame": 383
     },
     {
       "type": "f",
@@ -70,12 +70,12 @@
     {
       "type": "i_o",
       "start_frame": 399,
-      "end_frame": 443
+      "end_frame": 442
     },
     {
       "type": "i_o",
       "start_frame": 508,
-      "end_frame": 526
+      "end_frame": 525
     },
     {
       "type": "i_o",
@@ -85,12 +85,12 @@
     {
       "type": "i_o",
       "start_frame": 572,
-      "end_frame": 590
+      "end_frame": 589
     },
     {
       "type": "i_o",
       "start_frame": 605,
-      "end_frame": 624
+      "end_frame": 623
     },
     {
       "type": "f",
