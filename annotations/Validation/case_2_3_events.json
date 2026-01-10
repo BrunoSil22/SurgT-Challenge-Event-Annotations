@@ -70,6 +70,11 @@
     {
       "type": "i_o",
       "start_frame": 399,
+      "end_frame": 434
+    },
+     {
+      "type": "o",
+      "start_frame": 435,
       "end_frame": 442
     },
     {
